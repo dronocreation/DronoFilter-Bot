@@ -213,7 +213,7 @@ Delete A Lot Of Messages From Groups!
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of ꧁LXR=AMAL⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ࿐
+these are the extra features of DRONO
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>
