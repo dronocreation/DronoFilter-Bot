@@ -822,10 +822,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('♥️ SԾUᏒCΞ ♥️', url='https://github.com/LXR-YOUTUBER-AMAL/Ajax-Extra-Features')
+            InlineKeyboardButton('❤️ 𝗦𝗢𝗨𝗥𝗖𝗘 ❤️', url='https://github.com/dronocreation/DronoFilter-Bot')
             ],[
-            InlineKeyboardButton('🏠 𝗛𝗼𝗺𝗲 🏠', callback_data='start'),
-            InlineKeyboardButton('🔐 𝗖𝗹𝗼𝘀𝗲 🔐', callback_data='close_data')
+            InlineKeyboardButton('🏠 𝗛𝗢𝗠𝗘 🏠', callback_data='start'),
+            InlineKeyboardButton('🔐 𝗖𝗟𝗢𝗦𝗘 🔐', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
