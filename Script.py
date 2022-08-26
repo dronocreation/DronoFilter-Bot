@@ -93,7 +93,7 @@ Song Download Module, For Those Who Love Music
 - Can Be Used By Everyone
 - Works in bot pm
 
-Made By <a href=https://t.me/malayalammoviesmmms>꧁LXR=AMAL⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ࿐</a>"""
+Made By <a href=https://t.me/drono05>DRONO</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
 <b>Pin :</b>
 
