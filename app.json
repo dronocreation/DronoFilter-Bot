@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/LXR-YOUTUBER-AMAL/Ajax",
-    "repository": "https://github.com/LXR-YOUTUBER-AMAL/Ajax",
+    "repository": "https://github.com/dronocreation/DronoFilter-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
