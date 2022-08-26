@@ -99,4 +99,4 @@ python3 bot.py
 
 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [DRONO](https://t.me/drono05)                                                                                                                                        
 𝙶𝚁𝙾𝚄𝙿 ›› [MOVIE SHOW](https://t.me/+MtBtZy87q-kyOWE9)                                             
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [MOVIE SHOW](https://t.me/+0uC-iq68FaFjZGNl)
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [MOVIE SHOW](https://t.me/+H7Ywzo48owUyMDVl)
