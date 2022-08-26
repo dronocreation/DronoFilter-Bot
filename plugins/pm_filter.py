@@ -679,17 +679,17 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('➕ 𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('♻️ 𝗚𝗥𝗢𝗨𝗣 ♻️', url='https://t.me/+MtBtZy87q-kyOWE9'),
             InlineKeyboardButton('♻️ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 ♻️', url='https://t.me/+0uC-iq68FaFjZGNl')
             ],[
-            InlineKeyboardButton('💰 ᎮΛIᎠ ᎮᏒᎧᎷᎧϮIᎧИ 💰', callback_data='donation')
+            InlineKeyboardButton('𝗗𝗥𝗢𝗡𝗢', callback_data='donation')
             ],[
             InlineKeyboardButton('🔰 𝗛𝗘𝗟𝗣 🔰', callback_data='help'),
             InlineKeyboardButton('🔰 𝗔𝗕𝗢𝗨𝗧 🔰', callback_data='about')
             ],[
-            InlineKeyboardButton('💠 SΞΛᏒCH HΞᏒΞ 💠', switch_inline_query_current_chat='')
+            InlineKeyboardButton('🔍 𝗦𝗘𝗔𝗥𝗖𝗛 𝗛𝗘𝗥𝗘 🔎', switch_inline_query_current_chat='')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
